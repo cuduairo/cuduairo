@@ -4,7 +4,6 @@
 ### Desenvolvedor de Software | Backend • APIs • Automação
 
 [![GitHub](https://img.shields.io/badge/GitHub-cuduairo-181717?style=for-the-badge&logo=github)](https://github.com/cuduairo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
 </div>
 
@@ -12,25 +11,25 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor de software com formação em Desenvolvimento de Sistemas e experiência prática em **backend, integrações de APIs, automação de processos, chatbots e suporte de TI**.
+Desenvolvedor de software com formação em **Desenvolvimento de Sistemas** e experiência prática em desenvolvimento, integrações de APIs, automação de processos, chatbots e suporte de TI.
 
-Tenho interesse em construir soluções que conectem sistemas, automatizem tarefas e transformem processos manuais em fluxos mais eficientes e escaláveis.
+Meu foco é criar soluções que conectem sistemas, reduzam tarefas manuais e resolvam problemas reais de negócio.
 
-Atualmente, meu foco profissional está em **Desenvolvimento Backend/Python, APIs REST, automações e integrações**.
+Atualmente, direciono minha carreira para **Backend, Python, APIs REST, automações e integrações**.
 
 ---
 
-## 🚀 Principais competências
+## 🚀 Competências
 
-- Desenvolvimento de APIs e integrações entre sistemas
-- Python e desenvolvimento backend
-- Automações de processos e workflows
-- Integração com APIs externas e WhatsApp
-- n8n e automação de tarefas
+- Desenvolvimento backend com Python
+- Integração e consumo de APIs REST
+- Automação de processos e workflows
+- Chatbots e integrações com WhatsApp
+- n8n
 - Desenvolvimento web
-- Bancos de dados e manipulação de dados
-- Suporte técnico, infraestrutura e redes
-- Análise e visualização de dados
+- Bancos de dados
+- Manipulação e visualização de dados
+- Infraestrutura, redes e suporte técnico
 
 ---
 
@@ -39,7 +38,6 @@ Atualmente, meu foco profissional está em **Desenvolvimento Backend/Python, API
 ### Backend & Automação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
 
@@ -58,50 +56,48 @@ Atualmente, meu foco profissional está em **Desenvolvimento Backend/Python, API
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos selecionados
 
 ### 🌱 AGR Vai
-Sistema web desenvolvido para centralizar processos e formulários, com interface responsiva e organização de diferentes fluxos de envio.
+Sistema web desenvolvido para centralizar processos e formulários, com interface responsiva e diferentes fluxos de envio.
 
-**Stack:** HTML • CSS • JavaScript
+**Tecnologias:** HTML • CSS • JavaScript
 
 → [Ver projeto](https://github.com/cuduairo/agr-vai)
 
 ### 🎓 TCC — Projeto acadêmico
-Projeto desenvolvido durante a formação em Desenvolvimento de Sistemas, demonstrando experiência em desenvolvimento de aplicações e trabalho em projeto de conclusão.
+Projeto de conclusão desenvolvido durante a formação em Desenvolvimento de Sistemas, demonstrando experiência prática em desenvolvimento de aplicações.
 
 → [Ver projeto](https://github.com/cuduairo/tcc-pela-3-terceira-vez)
 
-### 📊 Projetos de dados e aplicações web
-Repositórios com experimentos e projetos acadêmicos envolvendo desenvolvimento web, dados e aplicações.
+### 💼 Empretec
+Projeto web acadêmico desenvolvido com foco em interface, organização de conteúdo e experiência do usuário.
 
-→ [Explorar repositórios](https://github.com/cuduairo?tab=repositories)
+→ [Ver projeto](https://github.com/cuduairo/Empretec)
 
 ---
 
-## 📈 O que estou buscando
+## 🎯 Objetivo profissional
 
-Estou aberto a oportunidades como:
+Busco oportunidades como:
 
 - **Desenvolvedor Backend / Python**
 - **Desenvolvedor de APIs**
-- **Desenvolvedor Júnior**
-- **Automação / Integrações**
-- **Desenvolvimento de sistemas**
+- **Desenvolvedor de Software Júnior**
+- **Desenvolvedor de Automação / Integrações**
 
-Tenho interesse especialmente em ambientes onde possa unir **desenvolvimento, automação, APIs e resolução de problemas reais de negócio**.
+Tenho interesse em equipes de tecnologia onde possa aplicar desenvolvimento, automação e integração de sistemas para resolver problemas reais.
 
 ---
 
 ## 📫 Contato
 
 - GitHub: [@cuduairo](https://github.com/cuduairo)
-- LinkedIn: [Meu perfil](https://www.linkedin.com/)
 
 ---
 
 <div align="center">
 
-**Construindo soluções, automatizando processos e evoluindo todos os dias.** 🚀
+**Backend • APIs • Automação • Integrações** 🚀
 
 </div>

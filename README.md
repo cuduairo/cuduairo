@@ -92,6 +92,7 @@ Tenho interesse em equipes de tecnologia onde possa aplicar desenvolvimento, aut
 
 ## 📫 Contato
 
+- **E-mail:** [jpggomes2017@gmail.com](mailto:jpggomes2017@gmail.com)
 - GitHub: [@cuduairo](https://github.com/cuduairo)
 
 ---

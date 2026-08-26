@@ -56,24 +56,24 @@ Atualmente, direciono minha carreira para **Backend, Python, APIs REST, automaç
 
 ---
 
-## 📌 Projetos selecionados
+## 📌 Projeto em destaque
 
-### 🌱 AGR Vai
-Sistema web desenvolvido para centralizar processos e formulários, com interface responsiva e diferentes fluxos de envio.
+### 🌱 AGR Vai — EmpreTec
 
-**Tecnologias:** HTML • CSS • JavaScript
+**Projeto de conclusão desenvolvido durante a formação técnica em Desenvolvimento de Sistemas.**
+
+O **AGR Vai (EmpreTec)** é uma plataforma web desenvolvida para aproximar estudantes e empresas, permitindo a divulgação de oportunidades, apresentação de informações e encaminhamento de currículos.
+
+**Tecnologias:** HTML5 • CSS3 • JavaScript • Bootstrap
+
+**O projeto demonstra:**
+- Desenvolvimento de aplicação web
+- Criação de interfaces responsivas
+- Formulários e fluxos de navegação
+- Organização de conteúdo e experiência do usuário
+- Desenvolvimento de uma solução orientada a um problema real
 
 → [Ver projeto](https://github.com/cuduairo/agr-vai)
-
-### 🎓 TCC — Projeto acadêmico
-Projeto de conclusão desenvolvido durante a formação em Desenvolvimento de Sistemas, demonstrando experiência prática em desenvolvimento de aplicações.
-
-→ [Ver projeto](https://github.com/cuduairo/tcc-pela-3-terceira-vez)
-
-### 💼 Empretec
-Projeto web acadêmico desenvolvido com foco em interface, organização de conteúdo e experiência do usuário.
-
-→ [Ver projeto](https://github.com/cuduairo/Empretec)
 
 ---
 

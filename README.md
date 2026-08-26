@@ -56,6 +56,25 @@ Atualmente, direciono minha carreira para **Backend, Python, APIs REST, automaç
 
 ---
 
+## 🏢 Projeto profissional — Migração OcoMon
+
+**Migração e modernização do sistema OcoMon**, realizada em ambiente Linux na infraestrutura de TI da instituição.
+
+**Atividades realizadas:**
+- Migração de dados do **OcoMon 4 para o OcoMon 6**
+- Preparação e configuração do ambiente Linux
+- Análise e manipulação do banco de dados
+- Importação e validação dos dados
+- Configuração do servidor web e aplicação
+- Investigação de compatibilidade entre versões
+- Testes e validação do sistema após a migração
+
+**Tecnologias:** Linux • OcoMon • MySQL/MariaDB • Apache • SQL • Administração de servidores
+
+> Projeto realizado em ambiente institucional, sem exposição de dados ou informações internas.
+
+---
+
 ## 📌 Projeto em destaque
 
 ### 🌱 AGR Vai — EmpreTec
